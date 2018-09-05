@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Assignment2
+comment0.text=\r\n\ Assignment\ 2\r\n\r\n\ @author\ (Tengis)\r\n\ @version\ (Wednesday)\r\n
+comment1.params=yourName
+comment1.target=void\ exerciseOne(java.lang.String)
+comment2.params=a\ b
+comment2.target=int\ exerciseTwo(int,\ int)
+comment3.params=a\ b
+comment3.target=void\ exerciseThree(int,\ int)
+comment4.params=yourName
+comment4.target=void\ exerciseFour(java.lang.String)
+comment5.params=age
+comment5.target=void\ exerciseFive(int)
+comment6.params=objectA
+comment6.target=void\ assign1(java.lang.String)
+numComments=7

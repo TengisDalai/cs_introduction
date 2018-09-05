@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=HelloWorld
+comment0.text=\r\n\ My\ first\ hello\ world.\r\n\ \r\n\ @author\ (Tengis)\r\n\ @version\ (v1.0)\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2
